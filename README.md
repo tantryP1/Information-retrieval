@@ -1,6 +1,4 @@
-Siap 🙂
-Ini aku rapikan dulu strukturnya supaya enak dibaca di **README GitHub (Markdown)**.
-Kamu bisa langsung copy–paste ke README.md.
+
 
 ---
 
